@@ -26,7 +26,7 @@ The objective is to analyze sales data and solve business-related problems using
 
 ## 📂 Files Included
 - Sales_Insights_Using_SQL.sql
-- dataset.zip
+- Dataset.zip
 
 ## 🎯 Purpose
 To strengthen SQL skills by solving real-world business analysis problems.
