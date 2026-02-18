@@ -1,51 +1,32 @@
-🍫 Awesome Chocolates – SQL Analysis
-📌 Overview
+# 🍫 Awesome Chocolates – SQL Analysis
 
-This project contains SQL queries performed on the Awesome Chocolates sales dataset.
-The goal is to analyze sales data and answer business-related questions using SQL.
+## 📌 Overview
+This project contains SQL queries performed on the Awesome Chocolates sales dataset.  
+The objective is to analyze sales data and solve business-related problems using SQL.
 
-📊 What This Project Covers
+## 📊 What This Project Covers
+- Shipment filtering based on conditions
+- Salesperson performance analysis
+- Product comparison (Milk Bars vs Eclairs)
+- Monthly sales analysis
+- Country-wise shipment comparison
+- High-volume shipment tracking
+- Sales amount categorization using CASE
 
-Shipment filtering based on conditions
+## 🛠 SQL Concepts Used
+- SELECT
+- WHERE
+- AND / IN / LIKE
+- GROUP BY
+- COUNT(), SUM(), MAX()
+- JOIN
+- CASE
+- Subqueries
+- Date filtering
 
-Salesperson performance analysis
+## 📂 Files Included
+- awesome_chocolates_queries.sql
+- dataset.csv
 
-Product comparison (Milk Bars vs Eclairs)
-
-Monthly sales analysis
-
-Country-wise shipment comparison
-
-High-volume shipment tracking
-
-Sales amount categorization
-
-🛠 SQL Concepts Used
-
-SELECT
-
-WHERE
-
-AND / IN / LIKE
-
-GROUP BY
-
-COUNT(), SUM(), MAX()
-
-JOIN
-
-CASE
-
-Subqueries
-
-Date filtering
-
-📂 Files Included
-
-awesome_chocolates_queries.sql – All SQL queries
-
-dataset.csv – Dataset used for analysis
-
-🎯 Purpose
-
+## 🎯 Purpose
 To strengthen SQL skills by solving real-world business analysis problems.
