@@ -25,8 +25,8 @@ The objective is to analyze sales data and solve business-related problems using
 - Date filtering
 
 ## 📂 Files Included
-- awesome_chocolates_queries.sql
-- dataset.csv
+- Sales_Insights_Using_SQL.sql
+- dataset.zip
 
 ## 🎯 Purpose
 To strengthen SQL skills by solving real-world business analysis problems.
